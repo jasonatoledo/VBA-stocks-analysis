@@ -16,6 +16,7 @@ Versus Refactored Run Times:
 
 https://github.com/jasonatoledo/stocks-analysis/blob/master/Resources/VBA_Challenge_2017.png and https://github.com/jasonatoledo/stocks-analysis/blob/master/Resources/VBA_Challenge_2018.png
 
+One of the challenges with this challenge was assigning arrays - This wasn't explicitly explained in the actual modules, so I had to do some research which led to the code below:
 
 Dim tickerVolumes(12) As Long
 
