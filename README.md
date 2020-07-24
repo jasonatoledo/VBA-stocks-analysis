@@ -6,9 +6,14 @@ The purpose of the VBA Stock Analysis challenge was to refactor the VBA code tha
 
 ## Results of Refactoring the VBA Code
 
+Although the refactoring process was challenging, I was very impressed with the results. The execution times from the refactored scripts compared to the original execution times processed about 6x faster - I think this performance gap would actually increase beyond 6:1 times faster if the dataset was even larger.
+
+Original Run Times:
+
 https://github.com/jasonatoledo/stocks-analysis/blob/master/Resources/Original_2017_Macro.png and https://github.com/jasonatoledo/stocks-analysis/blob/master/Resources/Original_2018_Macro.png
 
-Versus
+Versus Refactored Run Times:
+
 https://github.com/jasonatoledo/stocks-analysis/blob/master/Resources/VBA_Challenge_2017.png and https://github.com/jasonatoledo/stocks-analysis/blob/master/Resources/VBA_Challenge_2018.png
 
 
