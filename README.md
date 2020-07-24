@@ -2,9 +2,15 @@
 
 ## Overview
 
-The purpose of the VBA Stock Analysis challenge was to refactor the VBA code that I worked on in the module lessons. The original VBA code contained nested loops, which worked well for a small amount of data, but could run into efficiency issues with a larger dataset. In this challenge, I was tasked with creating a summary of 12 stocks containing ~3k lines of data that would run through VBA and provide a summary of each of the stocks perfomance for 2017 and 2018 depending on what the user selects.
+The purpose of the VBA Stock Analysis challenge was to refactor the VBA code that I worked on in the module lessons to make it more efficient. The original VBA code contained nested loops, which worked well for a small amount of data, but could run into efficiency issues with a larger dataset. In this challenge, I was tasked with creating a summary of 12 stocks containing ~3k lines of data that would run through VBA and provide a summary of each of the stocks perfomance for 2017 and 2018 depending on what the user inputs.
 
 ## Results of Refactoring the VBA Code
+
+https://github.com/jasonatoledo/stocks-analysis/blob/master/Resources/Original_2017_Macro.png and https://github.com/jasonatoledo/stocks-analysis/blob/master/Resources/Original_2018_Macro.png
+
+Versus
+https://github.com/jasonatoledo/stocks-analysis/blob/master/Resources/VBA_Challenge_2017.png and https://github.com/jasonatoledo/stocks-analysis/blob/master/Resources/VBA_Challenge_2018.png
+
 
 Dim tickerVolumes(12) As Long
 
