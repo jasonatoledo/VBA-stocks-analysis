@@ -10,8 +10,8 @@ Dim tickerStartingPrices(12) As Single
 Dim tickerEndingPrices(12) As Single
 
 
-## Summary
+## Summary:
 
-# Advantages/Disadvantages to refactoring code
+### Advantages/Disadvantages to refactoring code
 
-# How the above pros and cons applied to refactoring this project
+### How the above pros and cons applied to refactoring this project
